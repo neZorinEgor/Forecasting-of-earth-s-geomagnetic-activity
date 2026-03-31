@@ -1,7 +1,7 @@
 # Forecasting-of-earth-s-geomagnetic-activity
 > 🌎 Прогнозирование геомагнитной активности земли
 * [Данные](https://spdf.gsfc.nasa.gov/pub/data/omni/)
-* [Описание датасета](data/dataset_doc.text)
+* [Описание датасета](data/dataset_doc.txt)
 
 ```
 'Dst' (колонка 41) — индекс кольцевого тока (магнитные бури)
