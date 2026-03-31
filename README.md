@@ -8,3 +8,4 @@
 'AE' (колонка 42) — индекс авроральной активности
 ```
 ![text](asserts/dst.png)
+![ae](asserts/ae.png)
