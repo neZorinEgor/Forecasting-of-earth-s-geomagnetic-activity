@@ -2,3 +2,5 @@
 **.dat
 data/train/*
 data/train.csv
+**/__pycache__/
+**/.env
