@@ -1,4 +1,4 @@
-# Forecasting-of-earth-s-geomagnetic-activity
+<!-- # Forecasting-of-earth-s-geomagnetic-activity
 > 🌎 Прогнозирование геомагнитной активности земли
 * [Данные](https://spdf.gsfc.nasa.gov/pub/data/omni/)
 * [Описание датасета](data/dataset_doc.txt)
@@ -8,4 +8,5 @@
 'AE' (колонка 42) — индекс авроральной активности
 ```
 ![text](asserts/dst.png)
-![ae](asserts/ae.png)
+![ae](asserts/ae.png) -->
+<a href="https://manytools.org/hacker-tools/ascii-banner/"></a>

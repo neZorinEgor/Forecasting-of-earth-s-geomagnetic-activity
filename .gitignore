@@ -5,3 +5,5 @@ data/train.csv
 **/__pycache__/
 **/.env
 service/src/Geomagnesis.egg-info
+.env
+data/
